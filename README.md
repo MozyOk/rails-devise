@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+use devise gem  
 
-Things you may want to cover:
 
-* Ruby version
+# How to use 
 
-* System dependencies
+## DB create
 
-* Configuration
+- sqlite3  
+- create database table `users`
 
-* Database creation
+## run
 
-* Database initialization
+- `$ make run`
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
