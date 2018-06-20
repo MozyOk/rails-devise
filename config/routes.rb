@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'pages/index'
+
+  get 'pages/show'
+
   get 'homes/index'
 
   devise_for :users
